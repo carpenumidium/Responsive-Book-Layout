@@ -24,8 +24,13 @@ The file size altogether comes close to almost 9kb! Just barely teetering over t
 The files used in this project ordered by size:
 
 script.min.js - 1.50 kb
+
 book.min.css  - 1.64 kb
+
 style.min.css - 1.67 kb
+
 index.html    - 3.74 kb
+
 ------------------------
+
 Total weighing in at 8.57 kb

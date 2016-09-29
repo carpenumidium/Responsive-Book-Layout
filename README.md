@@ -1,4 +1,4 @@
-# Responsive-Book-Layout
+# Responsive Book Layout
 
 Really cut it close with this one, having started seriously hacking away at the code only this morning (29th). 😂 
 
